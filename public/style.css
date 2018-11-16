@@ -1,0 +1,23 @@
+.search-bar {
+  margin: 20px;
+  text-align: center;
+}
+.search-bar input {
+  width: 40%;
+}
+.list-group-item {
+  cursor: pointer;
+}
+.list-group-item:hover {
+  background: #eee;
+}
+.detail {
+  border: 1px solid #eee;
+  padding: 10px;
+  margin-top: 3px;
+}
+.search-bar h1 {
+  display: inline;
+  margin-right: 40px;
+  color: red;
+}
